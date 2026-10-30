@@ -1,0 +1,59 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="Str_Friends">Arkadaşlar</sys:String>
+    <sys:String x:Key="Str_Blocked">Engellenen</sys:String>
+    <sys:String x:Key="Str_ShowHideCode">Arkadaş kodunu göster/gizle</sys:String>
+    <sys:String x:Key="Str_CopyCode">Arkadaş kodunu kopyala</sys:String>
+    <sys:String x:Key="Str_Settings">Ayarlar</sys:String>
+
+    <sys:String x:Key="Str_FriendRequests">Arkadaş istekleri</sys:String>
+    <sys:String x:Key="Str_Unblock">Engeli kaldır</sys:String>
+    <sys:String x:Key="Str_Refresh">Yenile</sys:String>
+    <sys:String x:Key="Str_Acce
+                
+                
+                
+                
+                
+                
+                
+                ">Kabul et</sys:String>
+    <sys:String x:Key="Str_Decline">Reddet</sys:String>
+    <sys:String x:Key="Str_SendFile">Dosya gönder</sys:String>
+    <sys:String x:Key="Str_Remove">Kaldır</sys:String>
+    <sys:String x:Key="Str_AddFriend">Arkadaş ekle</sys:String>
+    <sys:String x:Key="Str_EnterCode">Arkadaş kodunu girin:</sys:String>
+    <sys:String x:Key="Str_Add">Ekle</sys:String>
+    <sys:String x:Key="Str_Cancel">İptal</sys:String>
+
+    <sys:String x:Key="Str_LogIn">Giriş Yap</sys:String>
+    <sys:String x:Key="Str_LoginTitle">Hesabınıza Giriş Yapın</sys:String>
+    <sys:String x:Key="Str_Username">Kullanıcı Adı</sys:String>
+    <sys:String x:Key="Str_Password">Şifre</sys:String>
+    <sys:String x:Key="Str_ConfirmPassword">Şifreyi Onayla</sys:String>
+    <sys:String x:Key="Str_Loading"> Yükleniyor...</sys:String>
+    <sys:String x:Key="Str_NoAccount">Bir hesabınız yok mu? Kayıt olmak için buraya tıklayın.</sys:String>
+    <sys:String x:Key="Str_HaveAccount">Zaten bir hesabınız var mı? Giriş yapmak için buraya tıklayın.</sys:String>
+    <sys:String x:Key="Str_CreateAccount">Hesap Oluştur</sys:String>
+    <sys:String x:Key="Str_OK">Tamam</sys:String>
+
+    <sys:String x:Key="Str_SelectFile">Dosyayı Seçin</sys:String>
+    <sys:String x:Key="Str_Send">Gönder</sys:String>
+    <sys:String x:Key="Str_SendingTitle">Dosya Gönderiliyor</sys:String>
+    <sys:String x:Key="Str_SendingFile">Dosya gönderiliyor...</sys:String>
+    <sys:String x:Key="Str_WaitingReceiver">Alıcı bekleniyor...</sys:String>
+
+    <sys:String x:Key="Str_SettingsTitle">Uygulama Ayarları</sys:String>
+    <sys:String x:Key="Str_StartWithWindows">Windows ile Başlat</sys:String>
+    <sys:String x:Key="Str_StartWithWindowsDesc">Windows'ta oturum açtığınızda EGTransfer'ı otomatik olarak başlat.</sys:String>
+    <sys:String x:Key="Str_ThemeTitle">Görünüm (Tema)</sys:String>
+    <sys:String x:Key="Str_ThemeDesc">Açık, Koyu veya Windows'u takip et seçeneğini belirleyin.</sys:String>
+    <sys:String x:Key="Str_ThemeLight">Açık</sys:String>
+    <sys:String x:Key="Str_ThemeDark">Koyu</sys:String>
+    <sys:String x:Key="Str_ThemeSystem">Sistem (otomatik)</sys:String>
+    <sys:String x:Key="Str_LanguageTitle">Dil</sys:String>
+    <sys:String x:Key="Str_LanguageDesc">Uygulamanın dilini seçin.</sys:String>
+    <sys:String x:Key="Str_LangSystem">Sistem (otomatik)</sys:String>
+</ResourceDictionary>

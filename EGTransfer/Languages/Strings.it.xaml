@@ -1,0 +1,62 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="Str_Friends">Amici</sys:String>
+    <sys:String x:Key="Str_Blocked">Bloccati</sys:String>
+    <sys:String x:Key="Str_ShowHideCode">Mostra/Nascondi codice amico</sys:String>
+    <sys:String x:Key="Str_CopyCode">Copia codice amico</sys:String>
+    <sys:String x:Key="Str_Settings">Impostazioni</sys:String>
+
+    <sys:String x:Key="Str_FriendRequests">Richieste di amicizia</sys:String>
+    <sys:String x:Key="Str_Unblock">Sblocca</sys:String>
+    <sys:String x:Key="Str_Refresh">Aggiorna</sys:String>
+    <sys:String x:Key="Str_Acce
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                ">Accetta</sys:String>
+    <sys:String x:Key="Str_Decline">Rifiuta</sys:String>
+    <sys:String x:Key="Str_SendFile">Invia File</sys:String>
+    <sys:String x:Key="Str_Remove">Rimuovi</sys:String>
+    <sys:String x:Key="Str_AddFriend">Aggiungi Amico</sys:String>
+    <sys:String x:Key="Str_EnterCode">Inserisci codice amico:</sys:String>
+    <sys:String x:Key="Str_Add">Aggiungi</sys:String>
+    <sys:String x:Key="Str_Cancel">Annulla</sys:String>
+
+    <sys:String x:Key="Str_LogIn">Accedi</sys:String>
+    <sys:String x:Key="Str_LoginTitle">Accedi al tuo account</sys:String>
+    <sys:String x:Key="Str_Username">Nome utente</sys:String>
+    <sys:String x:Key="Str_Password">Password</sys:String>
+    <sys:String x:Key="Str_ConfirmPassword">Conferma password</sys:String>
+    <sys:String x:Key="Str_Loading">Caricamento...</sys:String>
+    <sys:String x:Key="Str_NoAccount">Non hai un account? Clicca qui per registrarti.</sys:String>
+    <sys:String x:Key="Str_HaveAccount">Hai già un account? Clicca qui per accedere.</sys:String>
+    <sys:String x:Key="Str_CreateAccount">Crea Account</sys:String>
+    <sys:String x:Key="Str_OK">OK</sys:String>
+
+    <sys:String x:Key="Str_SelectFile">Seleziona File Qui</sys:String>
+    <sys:String x:Key="Str_Send">Invia</sys:String>
+    <sys:String x:Key="Str_SendingTitle">Invio File</sys:String>
+    <sys:String x:Key="Str_SendingFile">Invio file...</sys:String>
+    <sys:String x:Key="Str_WaitingReceiver">In attesa del destinatario...</sys:String>
+
+    <sys:String x:Key="Str_SettingsTitle">Impostazioni dell'app</sys:String>
+    <sys:String x:Key="Str_StartWithWindows">Avvia con Windows</sys:String>
+    <sys:String x:Key="Str_StartWithWindowsDesc">Avvia EGTransfer automaticamente all'accesso di Windows.</sys:String>
+    <sys:String x:Key="Str_ThemeTitle">Aspetto (Theme)</sys:String>
+    <sys:String x:Key="Str_ThemeDesc">Scegli tra Chiaro, Scuro o Segui Windows.</sys:String>
+    <sys:String x:Key="Str_ThemeLight">Chiaro</sys:String>
+    <sys:String x:Key="Str_ThemeDark">Scuro</sys:String>
+    <sys:String x:Key="Str_ThemeSystem">Sistema (automatico)</sys:String>
+    <sys:String x:Key="Str_LanguageTitle">Lingua</sys:String>
+    <sys:String x:Key="Str_LanguageDesc">Scegli la lingua dell'app.</sys:String>
+    <sys:String x:Key="Str_LangSystem">Sistema (automatico)</sys:String>
+</ResourceDictionary>

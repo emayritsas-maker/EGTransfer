@@ -1,0 +1,58 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="Str_Friends">Znajomi</sys:String>
+    <sys:String x:Key="Str_Blocked">Zablokowani</sys:String>
+    <sys:String x:Key="Str_ShowHideCode">Pokaż/Ukryj kod znajomego</sys:String>
+    <sys:String x:Key="Str_CopyCode">Kopiuj kod znajomego</sys:String>
+    <sys:String x:Key="Str_Settings">Ustawienia</sys:String>
+
+    <sys:String x:Key="Str_FriendRequests">Zaproszenia do znajomych</sys:String>
+    <sys:String x:Key="Str_Unblock">Odblokuj</sys:String>
+    <sys:String x:Key="Str_Refresh">Odśwież</sys:String>
+    <sys:String x:Key="Str_Acce
+                
+                
+                
+                
+                
+                
+                ">Akceptuj</sys:String>
+    <sys:String x:Key="Str_Decline">Odrzuć</sys:String>
+    <sys:String x:Key="Str_SendFile">Wyślij plik</sys:String>
+    <sys:String x:Key="Str_Remove">Usuń</sys:String>
+    <sys:String x:Key="Str_AddFriend">Dodaj znajomego</sys:String>
+    <sys:String x:Key="Str_EnterCode">Wprowadź kod znajomego:</sys:String>
+    <sys:String x:Key="Str_Add">Dodaj</sys:String>
+    <sys:String x:Key="Str_Cancel">Anuluj</sys:String>
+
+    <sys:String x:Key="Str_LogIn">Zaloguj się</sys:String>
+    <sys:String x:Key="Str_LoginTitle">Zaloguj się na swoje konto</sys:String>
+    <sys:String x:Key="Str_Username">Nazwa użytkownika</sys:String>
+    <sys:String x:Key="Str_Password">Hasło</sys:String>
+    <sys:String x:Key="Str_ConfirmPassword">Potwierdź hasło</sys:String>
+    <sys:String x:Key="Str_Loading">Ładowanie...</sys:String>
+    <sys:String x:Key="Str_NoAccount">Nie masz konta? Kliknij tutaj, aby się zarejestrować.</sys:String>
+    <sys:String x:Key="Str_HaveAccount">Masz już konto? Kliknij tutaj, aby się zalogować.</sys:String>
+    <sys:String x:Key="Str_CreateAccount">Utwórz konto</sys:String>
+    <sys:String x:Key="Str_OK">OK</sys:String>
+
+    <sys:String x:Key="Str_SelectFile">Wybierz plik tutaj</sys:String>
+    <sys:String x:Key="Str_Send">Wyślij</sys:String>
+    <sys:String x:Key="Str_SendingTitle">Wysyłanie pliku</sys:String>
+    <sys:String x:Key="Str_SendingFile">Wysyłanie pliku...</sys:String>
+    <sys:String x:Key="Str_WaitingReceiver">Oczekiwanie na odbiorcę...</sys:String>
+
+    <sys:String x:Key="Str_SettingsTitle">Ustawienia aplikacji</sys:String>
+    <sys:String x:Key="Str_StartWithWindows">Uruchamiaj z systemem Windows</sys:String>
+    <sys:String x:Key="Str_StartWithWindowsDesc">Uruchamiaj EGTransfer automatycznie po zalogowaniu się do systemu Windows.</sys:String>
+    <sys:String x:Key="Str_ThemeTitle">Wygląd (Motyw)</sys:String>
+    <sys:String x:Key="Str_ThemeDesc">Wybierz motyw Jasny, Ciemny lub zgodny z systemem Windows.</sys:String>
+    <sys:String x:Key="Str_ThemeLight">Jasny</sys:String>
+    <sys:String x:Key="Str_ThemeDark">Ciemny</sys:String>
+    <sys:String x:Key="Str_ThemeSystem">Systemowy (automatyczny)</sys:String>
+    <sys:String x:Key="Str_LanguageTitle">Język</sys:String>
+    <sys:String x:Key="Str_LanguageDesc">Wybierz język aplikacji.</sys:String>
+    <sys:String x:Key="Str_LangSystem">Systemowy (automatyczny)</sys:String>
+</ResourceDictionary>
