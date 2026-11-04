@@ -1,0 +1,51 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="Str_Friends">好友</sys:String>
+    <sys:String x:Key="Str_Blocked">已黑名单</sys:String>
+    <sys:String x:Key="Str_ShowHideCode">显示/隐藏好友代码</sys:String>
+    <sys:String x:Key="Str_CopyCode">复制好友代码</sys:String>
+    <sys:String x:Key="Str_Settings">设置</sys:String>
+
+    <sys:String x:Key="Str_FriendRequests">好友请求</sys:String>
+    <sys:String x:Key="Str_Unblock">解除阁置</sys:String>
+    <sys:String x:Key="Str_Refresh">刷新</sys:String>
+    <sys:String x:Key="Str_Accept">接受</sys:String>
+    <sys:String x:Key="Str_Decline">拒绝</sys:String>
+    <sys:String x:Key="Str_SendFile">发送文件</sys:String>
+    <sys:String x:Key="Str_Remove">删除</sys:String>
+    <sys:String x:Key="Str_AddFriend">添加好友</sys:String>
+    <sys:String x:Key="Str_EnterCode">输入好友代码:</sys:String>
+    <sys:String x:Key="Str_Add">添加</sys:String>
+    <sys:String x:Key="Str_Cancel">取消</sys:String>
+
+    <sys:String x:Key="Str_LogIn">登录</sys:String>
+    <sys:String x:Key="Str_LoginTitle">登录您的账户</sys:String>
+    <sys:String x:Key="Str_Username">用户名</sys:String>
+    <sys:String x:Key="Str_Password">密码</sys:String>
+    <sys:String x:Key="Str_ConfirmPassword">确认密码</sys:String>
+    <sys:String x:Key="Str_Loading">加载中...</sys:String>
+    <sys:String x:Key="Str_NoAccount">还没有账户？点击这里注册。</sys:String>
+    <sys:String x:Key="Str_HaveAccount">已有账户？点击这里登录。</sys:String>
+    <sys:String x:Key="Str_CreateAccount">创建账户</sys:String>
+    <sys:String x:Key="Str_OK">确定</sys:String>
+
+    <sys:String x:Key="Str_SelectFile">在此选择文件</sys:String>
+    <sys:String x:Key="Str_Send">发送</sys:String>
+    <sys:String x:Key="Str_SendingTitle">正在发送文件</sys:String>
+    <sys:String x:Key="Str_SendingFile">正在发送文件...</sys:String>
+    <sys:String x:Key="Str_WaitingReceiver">正在等待接收方...</sys:String>
+
+    <sys:String x:Key="Str_SettingsTitle">应用设置</sys:String>
+    <sys:String x:Key="Str_StartWithWindows">开机自启</sys:String>
+    <sys:String x:Key="Str_StartWithWindowsDesc">登录 Windows 时自动启动 EGTransfer。</sys:String>
+    <sys:String x:Key="Str_ThemeTitle">外观 (主题)</sys:String>
+    <sys:String x:Key="Str_ThemeDesc">选择浅色、深色或跟随系统。</sys:String>
+    <sys:String x:Key="Str_ThemeLight">浅色</sys:String>
+    <sys:String x:Key="Str_ThemeDark">深色</sys:String>
+    <sys:String x:Key="Str_ThemeSystem">系统默认 (自动)</sys:String>
+    <sys:String x:Key="Str_LanguageTitle">语言</sys:String>
+    <sys:String x:Key="Str_LanguageDesc">选择应用程序的语言。</sys:String>
+    <sys:String x:Key="Str_LangSystem">系统默认 (自动)</sys:String>
+</ResourceDictionary>

@@ -1,0 +1,57 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="Str_Friends">Vrienden</sys:String>
+    <sys:String x:Key="Str_Blocked">Blokkeerd</sys:String>
+    <sys:String x:Key="Str_ShowHideCode">Vriendcode tonen/verbergen</sys:String>
+    <sys:String x:Key="Str_CopyCode">Vriendcode kopiëren</sys:String>
+    <sys:String x:Key="Str_Settings">Instellingen</sys:String>
+
+    <sys:String x:Key="Str_FriendRequests">Vriendschapsverzoeken</sys:String>
+    <sys:String x:Key="Str_Unblock">Deblokkeren</sys:String>
+    <sys:String x:Key="Str_Refresh">Vernieuwen</sys:String>
+    <sys:String x:Key="Str_Acce
+                
+                
+                
+                
+                
+                ">Accepteren</sys:String>
+    <sys:String x:Key="Str_Decline">Weigeren</sys:String>
+    <sys:String x:Key="Str_SendFile">Bestand verzenden</sys:String>
+    <sys:String x:Key="Str_Remove">Verwijderen</sys:String>
+    <sys:String x:Key="Str_AddFriend">Vriend toevoegen</sys:String>
+    <sys:String x:Key="Str_EnterCode">Voer vriendcode in:</sys:String>
+    <sys:String x:Key="Str_Add">Toevoegen</sys:String>
+    <sys:String x:Key="Str_Cancel">Annuleren</sys:String>
+
+    <sys:String x:Key="Str_LogIn">Inloggen</sys:String>
+    <sys:String x:Key="Str_LoginTitle">Log in op uw account</sys:String>
+    <sys:String x:Key="Str_Username">Gebruikersnaam</sys:String>
+    <sys:String x:Key="Str_Password">Wachtwoord</sys:String>
+    <sys:String x:Key="Str_ConfirmPassword">Wachtwoord bevestigen</sys:String>
+    <sys:String x:Key="Str_Loading">Laden...</sys:String>
+    <sys:String x:Key="Str_NoAccount">Nog geen account? Klik hier om te registreren.</sys:String>
+    <sys:String x:Key="Str_HaveAccount">Heeft u al een account? Klik hier om in te loggen.</sys:String>
+    <sys:String x:Key="Str_CreateAccount">Account aanmaken</sys:String>
+    <sys:String x:Key="Str_OK">OK</sys:String>
+
+    <sys:String x:Key="Str_SelectFile">Selecteer hier het bestand</sys:String>
+    <sys:String x:Key="Str_Send">Verzenden</sys:String>
+    <sys:String x:Key="Str_SendingTitle">Bestand verzenden</sys:String>
+    <sys:String x:Key="Str_SendingFile">Bestand wordt verzonden...</sys:String>
+    <sys:String x:Key="Str_WaitingReceiver">Wachten på ontvanger...</sys:String>
+
+    <sys:String x:Key="Str_SettingsTitle">App-instellingen</sys:String>
+    <sys:String x:Key="Str_StartWithWindows">Starten met Windows</sys:String>
+    <sys:String x:Key="Str_StartWithWindowsDesc">EGTransfer automatisch starten wanneer u zich aanmeldt bij Windows.</sys:String>
+    <sys:String x:Key="Str_ThemeTitle">Uiterlijk (Thema)</sys:String>
+    <sys:String x:Key="Str_ThemeDesc">Kies Licht, Donker of Windows volgen.</sys:String>
+    <sys:String x:Key="Str_ThemeLight">Licht</sys:String>
+    <sys:String x:Key="Str_ThemeDark">Donker</sys:String>
+    <sys:String x:Key="Str_ThemeSystem">Systeem (automatisch)</sys:String>
+    <sys:String x:Key="Str_LanguageTitle">Taal</sys:String>
+    <sys:String x:Key="Str_LanguageDesc">Kies de taal van de app.</sys:String>
+    <sys:String x:Key="Str_LangSystem">Systeem (automatisch)</sys:String>
+</ResourceDictionary>
